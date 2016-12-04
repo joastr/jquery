@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Anton|Catamaran');
+
+h1 {
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+	color:#64ad45;
+	font-weight: 100;
+	margin: 70px auto;
+}
+
+p { 
+	font-family: 'Catamaran', sans-serif;
+	font-size: 1.2em;
+}
+
+.btn {
+	background-color: #64ad45;
+	color: white;
+}
+
+span {
+	font-weight: 700;
+}
+
+.btn-mr {
+	margin: 10px;
+}
